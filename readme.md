@@ -37,7 +37,7 @@ A RESTful API for managing books and borrowing in a library system built with **
 1. Clone the repository
 
    ```bash
-   git clone
+   git clone https://github.com/rakibwebdev23/library-management
    cd library-management
    npm install
    npm run dev
