@@ -5,6 +5,6 @@ export interface IBorrow extends Document {
   book: Types.ObjectId;
   quantity: number;
   dueDate: Date;
-  returned?: boolean;
   borrowedAt?: Date;
+  returned?: boolean;
 }
